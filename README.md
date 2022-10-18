@@ -10,5 +10,6 @@
 1. saiko
 1. hallo
 1. yanagitatuki
+1. dekitayo
 
 ## Brtest
